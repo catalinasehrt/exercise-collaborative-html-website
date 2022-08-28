@@ -1,0 +1,11 @@
+.carrusel-item img {
+    width: 100px;
+    height: 600px;
+    object-fit: cover;
+}
+div.titles{
+    width: 20px;
+    height: 10px;
+    align-items: center
+    top:center;
+}

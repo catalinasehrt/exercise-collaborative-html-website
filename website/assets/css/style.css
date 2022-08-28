@@ -1,3 +1,44 @@
 body{
+    background: #BDBDBD;
+    text-align: center;
+}
+
+#carouselExampleSlidesOnly{
+    background-image: url(../img/bg.jpg);
+    height: 700px;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center center;
+    
+    padding-top. 15%;
+    padding-bottom: 15%;
+    
+
+}  
+
+
+
+
+}
+.title{
+    text-align: justify center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: white;
+    align-items: ;
+    
+}
+
+
+
+}
+
+}
+
+.container{
+    Text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;   
     background: white
 }

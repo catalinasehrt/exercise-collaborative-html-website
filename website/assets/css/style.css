@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
     text-align: center;
 }
 
@@ -10,29 +10,17 @@ body{
     object-fit: cover;
     background-position: center center;
     
-    padding-top. 15%;
+    padding-top: 15%;
     padding-bottom: 15%;
     
 
 }  
 
-
-
-
-}
 .title{
     text-align: justify center;
     padding-top: 10px;
     padding-bottom: 10px;
-    background: white;
-    align-items: ;
-    
-}
-
-
-
-}
-
+    background: white;    
 }
 
 .container{
